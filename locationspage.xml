@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!--  By Cezar Batto, Malek Maghnie, Prabhjit Singh
+            - Stores all our locations information in a hierarchy
+              from location to places XML file
+            - used by locationsxslt.xsl, locations.php and 
+              redirectlocations.php
+    -->
+
+<location>
+
+  <place id="Parks">
+    <title>Jackson Park</title>
+    <p>Tecumseh Rd E and Ouelette Ave</p>
+    <p>Windsor, ON</p>
+    
+    <title>Mic Mac Park</title>
+    <p>Tecumseh Rd W to Matchette Rd</p>
+    <p>Windsor, ON</p>
+   
+  </place>
+ 
+ 
+  <place id="Cinemas">
+    <title>Cineplex Odeon</title>
+    <p>3100 Howard Avenue</p>
+    <p>Windsor, ON</p>
+    <p>N8X 3Y8</p>
+    <p>(519) 967-0197</p>
+    
+    <title>Silver City</title>
+    <p>4611 Walker Road</p>
+    <p>Windsor, ON</p>
+    <p>N8W 3T6</p>
+    <p>(519) 966-6888</p>
+    
+ 
+  </place>
+   <place id="Restaurants">
+    <title>The Keg Steakhouse and Bar</title>
+    <p>515 Riverside Drive West</p>
+    <p>Windsor, ON</p>
+    <p>N9A 7C3</p>
+    <p>(519) 969-3146</p>
+    
+    <title>Mazaar Lebanese Couisine</title>
+    <p>372 Ouellette Avenue</p>
+    <p>Windsor, ON</p>
+    <p>N9A 7C3</p>
+    <p>(519) 967-9696</p>
+    
+    <title>Koolini’s Italian Eatery</title>
+    <p>1520 Tecumseh Rd. East</p>
+    <p>Windsor, ON</p>
+    <p>N8W 1C4</p>
+    <p>(519) 254-5665</p>
+    
+    <title>Jose’s Noodle Factory</title>
+    <p>2731 Howard Avenue</p>
+    <p>Windsor, ON</p>
+    <p>N8X 3X4</p>
+    <p>(519) 972-1760‎</p>
+  </place>
+  
+  
+  <place id="Bars">
+    <title>29 Park Night Club</title>
+    <p>29 Park St. West</p>
+    <p>Windsor, ON</p>
+    <p>N9A 5T4</p>
+    
+    
+    <title>The Boom Boom Room</title>
+    <p>315 Quellette Avenue</p>
+    <p>Windsor, ON</p>
+    <p>N9A 4J1</p>
+    
+    <title>Taquila Bobs</title>
+    <p>63 Pitt St E</p>
+    <p>Windsor, ON</p>
+    <p>N9E 3X4</p>
+  </place>
+  
+  <place id="Malls">
+    <title>Devonshire Mall</title>
+    <p>3100 Howard Avenue</p>
+    <p>Windsor, ON</p>
+    <p>N8X 3Y8‎</p>
+    <p>(519) 966-3100</p>
+    
+    
+    <title>Tecumseh Mall</title>
+    <p>7650 Tecumseh Road E.</p>
+    <p>Windsor, ON</p>
+    <p>N8T 1E9</p>
+    <p>(519) 974-4055</p>
+  </place>
+  
+  <place id="Miscellaneous">
+    <title>Caesars Windsor</title>
+    <p>377 Riverside Drive East</p>
+    <p>Windsor, ON</p>
+    <p>N9A 7H7</p>
+    <p>(800) 991-7777</p>
+    
+    <title>WFCU Centre</title>
+    <p>334 Wyandotte Street East</p>
+    <p>Windsor, ON</p>
+    <p>(519) 254-9256</p>
+    
+    <title>University of Windsor</title>
+    <p>401 Sunset Avenue</p>
+    <p>Windsor, ON</p>
+    <p>(519) 253-3000</p>
+  </place>
+  
+</location>
+
+
+
+
+
+

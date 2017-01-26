@@ -1,0 +1,15 @@
+body {
+  color: #000; /* main page text color */
+  margin: 10;
+  font: 100% sans-serif;
+  font-style: italic;
+}
+
+body h1{
+  font-weight: bold;
+}
+
+body li{
+  color: #373737;
+}
+

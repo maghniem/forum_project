@@ -1,0 +1,17 @@
+body {
+  color: #373737;
+  margin: 10;
+  font: 100% sans-serif;
+  font-style: italic;
+  background-color: #FFF;
+}
+
+
+body h1{
+  font-weight: bold;
+}
+
+body li{
+  color: #CCF;
+}
+

@@ -1,0 +1,40 @@
+body {
+  background-color: #EEEEEE;
+  color : #000;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  background-color: #C0B283;
+  margin: 2em 1em 0 1em;
+  padding: 1em 2em 3em 3em;
+  border: solid;
+  border-color: #373737;
+  width: 75%;
+  float: right;
+  font-color: #000;
+}
+
+#toc {
+  display: block;
+  background-color: #C0B283;
+  margin: 2em 0 0 2em;
+  padding: 4px;
+  border: solid;
+  border-color: #373737;
+  position: top;
+  float: left;
+  font-size: 12pt;
+}
+
+a {
+  color: #373737;
+}
+
+a:visited {
+  color: #373737;
+}
+
+a:hover {
+  color: #FFF;
+}

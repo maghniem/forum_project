@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Untitled document</title>
+</head>
+<body>
+<p><b>About Us
+<p>
+<p>Team</b>
+<p>
+<p><b>Cezar Batto – President/Co-Founder</b>
+<p>As a highly educated and knowledgeable graduate with two degrees with in-depth knowledge in travel and web development, WindsorMania is a project I co-started that is dear to me. I genuinely desire to be an integral part of a team research initiative in order to bring our users the best web experience possible. 
+<p>
+<p><b>Malek Maghnie – CEO/Co-Founder</b>
+<p>	Born a leader, and remain so throughout my lifetime. I am what keeps this machine turning, operating at its highest levels.  I am commander and chief. I am the beginning and the end. I am, Malek Maghnie.
+<p>	
+<p><b>Prabhjit Singh – Custodian</b>
+<p>	I am currently a student at University of Windsor studying Comptuer Science &amp I also have a degree in Biology. Even with all the studying, I have taken a custodian position at WindsorMania in order to pay for my education debt.  I have come to love this place with all my heart, and would do anything to make sure it remains spotless.
+<p>
+<p><b>Start a trip, save your memories and invite your friends and family over and give them live photo updates!
+<p>
+<p>
+<p>The best way to share your Windsor experience:</b>
+<p>• Make updates instantly: Update your photo folder in real time
+<p>• Stay in touch with memories that will be saved forever
+<p>
+<p>
+<p><b>Build an album:</b>
+<p>• Vacationers assemble!: Collect your Windsor trip photos in one place
+<p>• Easy backup: Download them all when you get home
+<p>
+<p>
+<p><b>Everyone is using WindsorMania to share their travels:</b>
+<p>• Keep it private: Share only with the people who care the most, away from social media
+<p>• Apps for everyone: WindsorMania is currently available for web only, but an application will be available soon
+<p>
+<p>
+<p>
+<p><b>How it works:</b>
+<p>1. Create: Make an album for your Windsor trip
+<p>2. Update: Upload photos of your visit
+<p>3. Save: Show your memories for your family and friends
+<p>
+<p>
+<p>
+</p>
+</body>
+</html>
